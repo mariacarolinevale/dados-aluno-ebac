@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Maria
+-Profissão: Product Management 
+-Cidade: Campinas
+-O que faz nas horas vaga: Estudo engenharia de software, faço academia e yoga.
+-Feedback sobre o curso Qualidade de Software: O curso é bem desafiador, estou aprendendo bastante com ele.
+-Feedback sobre a plataforma de estudo da EBAC: A interface é muito intuitiva, excelente, e o melhor não trava.
 
 Obrigado!!!
 
